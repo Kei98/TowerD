@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Tower1.png</file>
+        <file>Tower2.png</file>
+        <file>Tower3.png</file>
+        <file>Arrow.png</file>
+        <file>Enemy.png</file>
+    </qresource>
+</RCC>
